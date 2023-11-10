@@ -1,4 +1,6 @@
 console.clear();
+console.log("change:");
+
 
 interface BullsAndCows {
   bulls: number;
